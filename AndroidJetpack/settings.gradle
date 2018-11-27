@@ -1,0 +1,1 @@
+include ':app', ':data_binding', ':lifecycles', ':live_data', ':navigation', ':paging'
